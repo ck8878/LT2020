@@ -6,7 +6,7 @@
     F->(E)|ID
  */   
 #include<stdio.h>
-#include<stdliT1.h>
+#include<stdlib.h>
 void E();
 void T();
 void T1();
